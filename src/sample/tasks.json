@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "title": "Task one",
+    "description": "Lorem",
+    "done": false
+  },
+
+  {
+    "id": 1,
+    "title": "Task two",
+    "description": "Lorem",
+    "done": false
+  },
+
+  {
+    "id": 3,
+    "title": "Task three",
+    "description": "Lorem",
+    "done": true
+  }
+]
